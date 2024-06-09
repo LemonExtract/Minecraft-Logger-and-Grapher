@@ -1,0 +1,4 @@
+name: Minecraft Logger and Grapher
+version: '${project.version}'
+main: com.dukeandotter.mcloggergrapher.Mcloggergrapher
+api-version: 1.20
